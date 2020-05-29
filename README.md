@@ -1,5 +1,6 @@
 # Lists
-Useful lists of most used passwords, WordPress themes, US cities, names, etc.
+Useful lists of most used passwords, WordPress themes, admin URLs, usernames, US cities, user-agents, etc.<br>
+
 Basically anything you can think of for penetration testing with brute force login.
 
 ### Install
